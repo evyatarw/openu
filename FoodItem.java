@@ -1,8 +1,8 @@
-/**
- * The FoodItem class represent a food product
- * @author Evyatar Weinberg
- * @version 2020a
- */
+/************************************************
+ * The FoodItem class represent a food product  *
+ * @author Evyatar Weinberg                     *
+ * @version 2020a                               *
+ ************************************************/
 public class FoodItem {
     //variables declaration:
     private String _name;
