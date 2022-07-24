@@ -1,7 +1,7 @@
-\*******************************************************\
-\* The program gets binary tree and two nodes and then *\
-\* checks if the second is a descendant of the first   *\
-\*******************************************************\
+/*******************************************************
+ * The program gets binary tree and two nodes and then *
+ * checks if the second is a descendant of the first   *
+ *******************************************************/
 
 #include <stdio.h>
 #include <string.h>
