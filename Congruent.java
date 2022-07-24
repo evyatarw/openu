@@ -4,16 +4,6 @@
     // *                                                                          *
     // ****************************************************************************
     
-	#include <stdio.h>
-	#include <string.h>
-
-	#define N 6
-	#define T "TRUE"
-	#define F "FALSE"
-
-	typedef int adjmat[N][N];
-
-
 
     import java.util.Scanner;
     
