@@ -2,18 +2,18 @@
  *  The program convert numbers at digits to numbers at words.                        *
  *  for axample 45 converts to "forty five".                                          *
  *                                                                                    *
- *	the user can decide: if the user don't enter arguments at the command line the    *
- *	program get numbers from the keyboard and print the numbers (at words) on the     *
- *	screen. the user can enter 1 argument at the command line and then the program    *
- *	get numbers from the the file entered and print the numbers (at words) on the     *
- *	screen. the user can enter 2 arguments at the command line and then the program   *
- *	get numbers from the file (the first argument) entered and print the numbers (at  *
- *	words) in the file (the second argument) entered.                                 *
+ *  the user can decide: if the user don't enter arguments at the command line the    *
+ *  program get numbers from the keyboard and print the numbers (at words) on the     *
+ *  screen. the user can enter 1 argument at the command line and then the program    *
+ *  get numbers from the the file entered and print the numbers (at words) on the     *
+ *  screen. the user can enter 2 arguments at the command line and then the program   *
+ *  get numbers from the file (the first argument) entered and print the numbers (at  *
+ *  words) in the file (the second argument) entered.                                 *
  *                                                                                    *
- *	the program check the input character character goes through and recognize if it  *
- *	white-space or number (one-digit number or two-digit number) and print the number.*
+ *  the program check the input character character goes through and recognize if it  *
+ *  white-space or number (one-digit number or two-digit number) and print the number.*
  *                                                                                    *
- *	The program guess the input includes white-space and digit characters only.       *
+ *  The program guess the input includes white-space and digit characters only.       *
  **************************************************************************************/
 
 #include "mmn23.h"
